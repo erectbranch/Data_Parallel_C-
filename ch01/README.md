@@ -6,7 +6,7 @@ C++을 이용한 Data parallelism은 현대 heterogeneous system에서 paralllel
 
 > 이 책은 C++과 SYCL을 이용한 data-parallel programming을 다룬다.
 
-SYCL(sickle로 알려져 있다. 줄임말이 아니라 그냥 단어이다.)는 **DPC++**(Data Parallel C++) compiler와 같은 SYCL-aware C++ compiler를 사용한다.
+SYCL(sickle로 불린다. 줄임말이 아니라 그냥 단어이다.)는 **DPC++**(Data Parallel C++) compiler와 같은 SYCL-aware C++ compiler를 사용한다.
 
 DPC++ compiler는 Intel의 open source compiler project이며, GPU, CPU, 그리고 FPGA device 등을 지원한다. 
 
